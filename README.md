@@ -14,6 +14,8 @@ Welcome to my Data Analyst Portfolio! Here you'll find a collection of my data p
 
 🔹 [Exploratory Data Analysis (EDA) with Python](https://github.com/VishalKambleTheDataAnalyst/EDA-with-Python)  
 
+🔹 [Coffee Store Sales Dashboard using Excel](https://github.com/VishalKambleTheDataAnalyst/Coffee-Sales-Dashboard)
+
 🔹 [Road Accident Dashboard](https://github.com/VishalKambleTheDataAnalyst/Road-Accident-Dashboard)  
 
 
